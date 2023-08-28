@@ -56,6 +56,7 @@ public class SignUpTest {
     @And("User closed the browser")
     public void userClosedTheBrowser() {
 
+
     }
 
 
